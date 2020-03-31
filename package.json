@@ -1,0 +1,28 @@
+{
+    "name": "emission-factor-db",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "tsc && node dist/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.3",
+        "form-data": "^3.0.0",
+        "node-fetch": "^2.6.0",
+        "puppeteer": "^2.1.1",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.5"
+    },
+    "devDependencies": {
+        "@types/cheerio": "^0.22.17",
+        "@types/form-data": "^2.5.0",
+        "@types/node": "^13.9.8",
+        "@types/node-fetch": "^2.5.5",
+        "typescript": "^3.8.3"
+    }
+}
