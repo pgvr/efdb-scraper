@@ -13,7 +13,7 @@
     "dependencies": {
         "cheerio": "^1.0.0-rc.3",
         "form-data": "^3.0.0",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.7",
         "puppeteer": "^2.1.1",
         "request": "^2.88.2",
         "request-promise": "^4.2.5"
